@@ -12,6 +12,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarChart", "StarChart\Star
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarChartTests", "StarChartTests\StarChartTests.csproj", "{358ABF4C-8485-41EE-B995-DE35C43AD160}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootstrap4", "Bootstrap4\Bootstrap4.csproj", "{0E48009B-5178-4967-8BB0-0B55EEF71399}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{358ABF4C-8485-41EE-B995-DE35C43AD160}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{358ABF4C-8485-41EE-B995-DE35C43AD160}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{358ABF4C-8485-41EE-B995-DE35C43AD160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E48009B-5178-4967-8BB0-0B55EEF71399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E48009B-5178-4967-8BB0-0B55EEF71399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E48009B-5178-4967-8BB0-0B55EEF71399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E48009B-5178-4967-8BB0-0B55EEF71399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
